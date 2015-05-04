@@ -10,6 +10,8 @@ Then I thought it could be cool to provide those changes to the people that may 
 ## Features : 
 - Highlight raws on hover 
 - Better font aliasing
+- Better langages identification
+- Frameless & wider `Readme.md`
 - [Need a special feature ? Open an issue for it !](https://github.com/LukyVj/github_advanced_styles/issues/new)
 
 ## Download : 
