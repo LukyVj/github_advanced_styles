@@ -26,10 +26,10 @@ Now, open github, and you're good to go :smiley:
 
 ## Look mah
 
-Regular mode
+#### Regular mode
 ---
 ![Preview](https://s3-us-west-2.amazonaws.com/s.cdpn.io/64/Capture_d’écran_2015-05-05_à_01.19.50.png)
 
-Night mode
+#### Night mode
 ---
 ![Preview nightmode](https://s3-us-west-2.amazonaws.com/s.cdpn.io/64/Capture_d’écran_2015-05-05_à_01.19.31.png)
