@@ -22,3 +22,6 @@ Then I thought it could be cool to provide those changes to the people that may 
 
 Now, open github, and you're good to go :smiley:
 
+## Look mah
+![Preview](http://puu.sh/hBxdL/392b8323a0.png)
+
