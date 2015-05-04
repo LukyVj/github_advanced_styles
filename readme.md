@@ -1,5 +1,5 @@
 #Github Advanced Styles
-##### An advanced stylesheet for github
+#### An advanced stylesheet for github
 
 
 --- 
