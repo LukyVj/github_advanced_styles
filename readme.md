@@ -8,10 +8,12 @@ I decided to create this extension, since I needed some more styling for my own 
 Then I thought it could be cool to provide those changes to the people that may need the improvements I needed. 
 
 ## Features : 
-- Highlight raws on hover 
-- Better font aliasing
-- Better langages identification
-- Frameless & wider `Readme.md`
+- [x] Highlight raws on hover 
+- [x] Better font aliasing
+- [x] Better langages identification
+- [x] Frameless & wider `Readme.md`
+- [x] Night mode
+- [ ] Skeuoless-flatiplus
 - [Need a special feature ? Open an issue for it !](https://github.com/LukyVj/github_advanced_styles/issues/new)
 
 ## Download : 
@@ -23,5 +25,5 @@ Then I thought it could be cool to provide those changes to the people that may 
 Now, open github, and you're good to go :smiley:
 
 ## Look mah
-![Preview](http://puu.sh/hBxdL/392b8323a0.png)
-
+![Preview](https://s3-us-west-2.amazonaws.com/s.cdpn.io/64/Capture_d’écran_2015-05-05_à_01.19.50.png)
+![Preview nightmode](https://s3-us-west-2.amazonaws.com/s.cdpn.io/64/Capture_d’écran_2015-05-05_à_01.19.31.png)
