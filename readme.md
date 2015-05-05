@@ -13,6 +13,7 @@ Then I thought it could be cool to provide those changes to the people that may 
 - [x] Better langages identification
 - [x] Frameless & wider `Readme.md`
 - [x] Night mode
+- [ ] [Solarized mode](https://github.com/LukyVj/github_advanced_styles/issues/2)
 - [ ] Skeuoless-flatiplus
 - [Need a special feature ? Open an issue for it !](https://github.com/LukyVj/github_advanced_styles/issues/new)
 
