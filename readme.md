@@ -18,12 +18,17 @@ Then I thought it could be cool to provide those changes to the people that may 
 - [Need a special feature ? Open an issue for it !](https://github.com/LukyVj/github_advanced_styles/issues/new)
 
 ## Download : 
-[githubAdvancedStyle.crx v0.0.1](https://github.com/LukyVj/github_advanced_styles/blob/master/githubAdvancedStyle.crx?raw=true)
+[githubAdvancedStyle.crx v0.0.6rc](https://github.com/LukyVj/github_advanced_styles/blob/master/githubAdvancedStyle.crx?raw=true)
 
 ## How to ? : 
+### Install the extension : 
 [Download the extension](https://github.com/LukyVj/github_advanced_styles/blob/master/githubAdvancedStyle.crx?raw=true) and drag it in the extensions manager of google chrome (`chrome://extensions/`). 
 
 Now, open github, and you're good to go :smiley:
+
+### Enable the night mode : 
+Once the extension is installed, go on github, and click on the button, on the top left corner. 
+![Regular](http://puu.sh/hCh7v/2f99061af1.png) ![Night](http://puu.sh/hCh7R/920ba6eef3.png)
 
 ## Look mah
 
