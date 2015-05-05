@@ -1,6 +1,10 @@
 #Github Advanced Styles
 #### An advanced stylesheet for github
 
+![](https://img.shields.io/badge/version-0.0.6rc-brightgreen.svg)
+![](https://img.shields.io/github/issues/LukyVj/github_advanced_styles.svg)
+![](https://img.shields.io/github/forks/LukyVj/github_advanced_styles.svg)
+![](https://img.shields.io/github/stars/LukyVj/github_advanced_styles.svg)
 
 --- 
 ## Why ? 
