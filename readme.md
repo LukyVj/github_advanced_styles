@@ -28,6 +28,7 @@ Now, open github, and you're good to go :smiley:
 
 ### Enable the night mode : 
 Once the extension is installed, go on github, and click on the button, on the top left corner. 
+
 ![Regular](http://puu.sh/hCh7v/2f99061af1.png) ![Night](http://puu.sh/hCh7R/920ba6eef3.png)
 
 ## Look mah
